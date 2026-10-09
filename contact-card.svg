@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="219" viewBox="0 0 720 219" role="img" aria-labelledby="title desc">
+<title id="title">Contact info card</title><desc id="desc">Portfolio, email, and GitHub links.</desc>
+<defs><linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#111827"/><stop offset="100%" stop-color="#0b1020"/></linearGradient></defs>
+<rect x="1" y="1" width="718" height="217" rx="14" fill="url(#panel)" stroke="#30394d" stroke-width="2"/><path d="M15 1 H705 Q719 1 719 15 V55 H1 V15 Q1 1 15 1Z" fill="#1b2435"/>
+<circle cx="24" cy="27" r="5" fill="#ff5f57"/><circle cx="44" cy="27" r="5" fill="#febc2e"/><circle cx="64" cy="27" r="5" fill="#28c840"/><text x="95" y="32" fill="#cbd5e1" font-family="ui-monospace,monospace" font-size="14" font-weight="600">rishixpansion / connect</text>
+<g font-family="ui-monospace,monospace" font-size="14">
+<text x="28" y="91" fill="#8be9fd" font-weight="700">Portfolio</text><text x="170" y="91" fill="#e5e7eb">itsrishidesigner.framer.website</text><line x1="28" y1="106" x2="692" y2="106" stroke="#273246"/>
+<text x="28" y="134" fill="#bd93f9" font-weight="700">Email</text><text x="170" y="134" fill="#e5e7eb">rishixpansion@gmail.com</text><line x1="28" y1="149" x2="692" y2="149" stroke="#273246"/>
+<text x="28" y="177" fill="#50fa7b" font-weight="700">GitHub</text><text x="170" y="177" fill="#e5e7eb">github.com/rishixpansion</text>
+</g></svg>
