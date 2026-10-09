@@ -17,6 +17,8 @@
 
 ## About
 
+<p align="center"><img src="./about-card.svg" alt="About information card" width="720" /></p>
+
 I work at the intersection of **growth, content, client communication, and creative delivery**. My experience spans creative agencies, social media, fintech, and B2B outreach—with a focus on building repeatable workflows that help teams find opportunities, publish consistently, and deliver good work on time.
 
 - **Growth & outreach:** prospect research, personalized cold outreach, lead generation, follow-ups, and client acquisition.
@@ -25,6 +27,8 @@ I work at the intersection of **growth, content, client communication, and creat
 - **Design:** graphic design and visual communication. My portfolio is the best place to explore the work.
 
 ## Selected impact
+
+<p align="center"><img src="./impact-card.svg" alt="Selected professional impact metrics card" width="720" /></p>
 
 | Area | Highlights |
 | --- | --- |
@@ -38,6 +42,8 @@ I work at the intersection of **growth, content, client communication, and creat
 *Metrics are based on my professional experience and are approximate where noted.*
 
 ## What I work with
+
+<p align="center"><img src="./stack-card.svg" alt="Skills and working stack card" width="720" /></p>
 
 **Growth & outreach**  
 Lead research · Cold email outreach · Lead generation · Follow-ups · Client acquisition · Prospect qualification
@@ -53,6 +59,8 @@ Graphic design · Video editing · AI-assisted content creation · Prompt engine
 
 ## Featured work
 
+<p align="center"><img src="./work-card.svg" alt="Featured work card" width="720" /></p>
+
 ### Graphic design portfolio
 Explore selected design work, visual projects, and creative direction.
 
@@ -63,6 +71,8 @@ My experience includes international B2B outreach, YouTube content coordination,
 
 ## Experience snapshot
 
+<p align="center"><img src="./experience-card.svg" alt="Experience snapshot card" width="720" /></p>
+
 - **Outreach Manager — Video Editors & Designers:** prospect research, personalized outreach, pipeline management, and streamlined follow-ups.
 - **Founder — RishMi Studios:** building a creative service business across positioning, client acquisition, branding, operations, and delivery.
 - **Marketing & Online Presence — MySarthi.com:** digital presence, finance-focused content, and online lead generation.
@@ -72,6 +82,8 @@ My experience includes international B2B outreach, YouTube content coordination,
 - **Content & Marketing Manager — ProActieAnt:** international B2B outreach, inbound inquiries, and web/social content.
 
 ## Let's connect
+
+<p align="center"><img src="./contact-card.svg" alt="Contact information card" width="720" /></p>
 
 - **Portfolio:** [itsrishidesigner.framer.website](https://itsrishidesigner.framer.website/)
 - **Email:** [rishixpansion@gmail.com](mailto:rishixpansion@gmail.com)
