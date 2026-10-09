@@ -9,9 +9,6 @@
   <a href="mailto:rishixpansion@gmail.com">Contact me</a>
 </p>
 
-<p align="center">
-  <img src="./info-card.svg" alt="Profile info card showing current focus, previous experience, working stack, and selected highlights" width="720" />
-</p>
 
 ---
 
