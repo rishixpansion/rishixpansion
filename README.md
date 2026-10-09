@@ -17,7 +17,6 @@
 
 ## About
 
-<p align="center"><img src="./about-card.svg" alt="About information card" width="720" /></p>
 
 I work at the intersection of **growth, content, client communication, and creative delivery**. My experience spans creative agencies, social media, fintech, and B2B outreach—with a focus on building repeatable workflows that help teams find opportunities, publish consistently, and deliver good work on time.
 
@@ -28,7 +27,6 @@ I work at the intersection of **growth, content, client communication, and creat
 
 ## Selected impact
 
-<p align="center"><img src="./impact-card.svg" alt="Selected professional impact metrics card" width="720" /></p>
 
 | Area | Highlights |
 | --- | --- |
@@ -43,7 +41,6 @@ I work at the intersection of **growth, content, client communication, and creat
 
 ## What I work with
 
-<p align="center"><img src="./stack-card.svg" alt="Skills and working stack card" width="720" /></p>
 
 **Growth & outreach**  
 Lead research · Cold email outreach · Lead generation · Follow-ups · Client acquisition · Prospect qualification
@@ -59,7 +56,6 @@ Graphic design · Video editing · AI-assisted content creation · Prompt engine
 
 ## Featured work
 
-<p align="center"><img src="./work-card.svg" alt="Featured work card" width="720" /></p>
 
 ### Graphic design portfolio
 Explore selected design work, visual projects, and creative direction.
@@ -71,7 +67,6 @@ My experience includes international B2B outreach, YouTube content coordination,
 
 ## Experience snapshot
 
-<p align="center"><img src="./experience-card.svg" alt="Experience snapshot card" width="720" /></p>
 
 - **Outreach Manager — Video Editors & Designers:** prospect research, personalized outreach, pipeline management, and streamlined follow-ups.
 - **Founder — RishMi Studios:** building a creative service business across positioning, client acquisition, branding, operations, and delivery.
@@ -83,7 +78,6 @@ My experience includes international B2B outreach, YouTube content coordination,
 
 ## Let's connect
 
-<p align="center"><img src="./contact-card.svg" alt="Contact information card" width="720" /></p>
 
 - **Portfolio:** [itsrishidesigner.framer.website](https://itsrishidesigner.framer.website/)
 - **Email:** [rishixpansion@gmail.com](mailto:rishixpansion@gmail.com)
